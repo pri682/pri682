@@ -1,3 +1,3 @@
 # Yo, I’m Priyanka! 👋
-I’m a junior majoring in Computer Science, interned at Amazon Web Service as an SDE last summer, if you have something in mind and want to collaborate, feel free to email me at 
+I’m a senior majoring in Computer Science, interned at Amazon Web Service as an SDE last summer, if you have something in mind and want to collaborate, feel free to email me at 
 📫 priyankakarki474@gmail.com
